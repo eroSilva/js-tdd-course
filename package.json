@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eroSilva/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/eroSilva/js-tdd-course#readme"
+  "homepage": "https://github.com/eroSilva/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
 }
